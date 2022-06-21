@@ -1,4 +1,4 @@
-package com.example.designpattern.ProxyPattern;
+package com.example.designpattern.ProxyPattern.jdkProxy;
 
 import java.lang.reflect.Proxy;
 

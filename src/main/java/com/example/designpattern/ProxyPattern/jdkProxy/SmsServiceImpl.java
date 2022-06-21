@@ -1,4 +1,4 @@
-package com.example.designpattern.ProxyPattern;
+package com.example.designpattern.ProxyPattern.jdkProxy;
 
 public class SmsServiceImpl implements SmsService{
     @Override
